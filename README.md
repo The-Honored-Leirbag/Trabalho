@@ -1,6 +1,3 @@
-# Trabalho
-Tenplate de Curriculo Trabalho
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -171,8 +168,8 @@ Tenplate de Curriculo Trabalho
     <div class="container">
         <!-- Cabeçalho do currículo -->
         <header>
-            <h1>Fulano de Tal</h1>
-            <p>Desenvolvedor Web</p>
+            <h1>Gabriel Barreto Sterpin</h1>
+            <p>Estudante</p>
         </header>
 
         <!-- Seção "Sobre" -->
@@ -195,7 +192,7 @@ Tenplate de Curriculo Trabalho
         <section class="section">
             <h2>Formação</h2>
             <ul>
-                <li>Graduação em Ciência da Computação</li>
+                <li>Graduação em Ciência da Computação (Cursando)</li>
                 <li>Cursos Complementares em Desenvolvimento Web</li>
             </ul>
         </section>
@@ -204,8 +201,7 @@ Tenplate de Curriculo Trabalho
         <section class="section">
             <h2>Experiência Profissional</h2>
             <ul>
-                <li>Empresa A - Desenvolvedor Web (2018 - 2022)</li>
-                <li>Empresa B - Estagiário de Desenvolvimento (2016 - 2018)</li>
+                <li>Inova Capixaba - Formar - Assistente ADM (2018 - 2022)</li>
             </ul>
         </section>
 
