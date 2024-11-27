@@ -42,6 +42,14 @@
             font-size: 2.5em; /* Tamanho da fonte */
         }
 
+        /* Estilo para a imagem do perfil */
+        .profile-pic {
+            width: 150px; /* Largura da imagem */
+            height: 150px; /* Altura da imagem */
+            border-radius: 50%; /* Faz a imagem ficar redonda */
+            margin: 20px 0; /* Espaçamento acima e abaixo */
+        }
+
         h2 {
             font-family: 'Playfair Display', serif; /* Fonte dos subtítulos */
             margin-top: 0; /* Remove margem superior */
@@ -168,6 +176,7 @@
     <div class="container">
         <!-- Cabeçalho do currículo -->
         <header>
+            <img src="coisas/foto de gato de oculos.jpg" alt="Foto de Gabriel Barreto Sterpin" class="profile-pic"> <!-- Insira o caminho correto da imagem -->
             <h1>Gabriel Barreto Sterpin</h1>
             <p>Estudante</p>
         </header>
