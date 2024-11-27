@@ -176,7 +176,7 @@
     <div class="container">
         <!-- Cabeçalho do currículo -->
         <header>
-            <img src="coisas/foto de gato de oculos.jpg" alt="Foto de Gabriel Barreto Sterpin" class="profile-pic"> <!-- Insira o caminho correto da imagem -->
+            <img src="gato de oculos.jpg.jpg" alt="Foto de Gabriel Barreto Sterpin" class="profile-pic"> <!-- Insira o caminho correto da imagem -->
             <h1>Gabriel Barreto Sterpin</h1>
             <p>Estudante</p>
         </header>
